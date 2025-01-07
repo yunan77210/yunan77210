@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+.section-title {
+    font-weight: bold;
+    margin-top: 20px;
+}
+.photo-box {
+    width: 100px;
+    height: 120px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 120px;
+    margin-left: auto;
+}
+.table-bordered td, .table-bordered th {
+    border: 1px solid #000 !important;
